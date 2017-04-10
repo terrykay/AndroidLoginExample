@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="calendar_date_picker_result_values">%3$s/%2$s/%1$s</string>
+    <string-array name="user_type">
+        <item>@string/manager</item>
+        <item>@string/user</item>
+
+    </string-array>
+    <string name="user">User</string>
+    <string name="manager">Manager</string>
+    <string name="user_saved_message">User saved</string>
+    <string name="user_exists_message">User with that NiNo exists</string>
+    <string name="passwords_dont_match_message">Passwords do not match</string>
+
+    <string name="dob_button">Date of birth</string>
+</resources>
